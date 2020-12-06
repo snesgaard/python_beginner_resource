@@ -23,13 +23,13 @@ Pycharm is probably the better starting point, as it comes with a debugger and a
 
 # Installation Guide
 
-Setting up Python and Pycharm is covered pretty nicely by the first 5 minutes of this Programming with Mosh Python for Beginners video https://www.youtube.com/watch?v=kqtD5dpn9C8&t=361s.
+Setting up Python and Pycharm is covered pretty nicely by the first 5 minutes of this Programming with Mosh Python for Beginners video https://www.youtube.com/watch?v=kqtD5dpn9C8&t.
 
 For setting Python with VSCode Corey Schafer has a very detailed guide https://www.youtube.com/watch?v=-nh9rCzPJ20&list=PL-osiE80TeTt66h8cVpmbayBKlMTuS55y&index=9.
 
 # Video Lessons
 
-Programming with Mosh, Python for Beginners covers the basics of the Python language as well as how to set it up https://www.youtube.com/watch?v=kqtD5dpn9C8&t=361s.
+Programming with Mosh, Python for Beginners covers the basics of the Python language as well as how to set it up https://www.youtube.com/watch?v=kqtD5dpn9C8&t.
 
 Corey Schafer has a wide range of excellent tutorials on the language itself as well as various Python framesworks. For the language basics we have this video series https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTskrapNbzXhwoFUiLCjGgY7.
 
